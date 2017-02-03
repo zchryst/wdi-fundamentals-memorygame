@@ -59,6 +59,11 @@ nav a:hover{
 	float: left;
 }
 
+.pictureCard{
+	height: 200px;
+	width: 150px;
+}
+
 #wrapper{
 	width: 960px;
 	margin: 0 auto;
